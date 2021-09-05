@@ -8,5 +8,5 @@ This repo is dedicated to hold all my 100 Days of Code projects.
 2. [Tip Calculator](https://github.com/le-anne/100DaysofPython/blob/main/TipCalculator.py)
 3. [Treasure Island](https://github.com/le-anne/100DaysofPython/blob/main/TreasureIsland.py)
 4. [Rock Paper Scissors](https://github.com/le-anne/100DaysofPython/blob/main/rockpaperscissors.py)
-5. Create Password Generator
-6. Escaping the Maze
+5. [Create Password Generator](https://github.com/le-anne/100DaysofPython/blob/main/PasswordGenerator.py)
+6. [Escaping the Maze](https://github.com/le-anne/100DaysofPython/blob/main/escapethemaze.py) - [Link to Game](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
